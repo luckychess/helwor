@@ -1,4 +1,4 @@
 helwor
 ======
 
-Simple hello-world project. Created just to test github capabilietes.
+Simple hello-world project. Created just to test github capabilities.
